@@ -1,0 +1,8 @@
+# Import Raw Work
+
+# Well, this is what I want I think, but how to use itertools to get it?
+
+a = ["a", "b", "c"]
+b = [1, 2, 3]
+count_basic = [(x,y) for x in a for y in b]
+count_basic
