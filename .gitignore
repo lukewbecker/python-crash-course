@@ -1,7 +1,16 @@
+# These are the default files that I don't want added to the remote repo.
+
+*.csv
+*.xlsx
+.env
 .ipynb_checkpoints/
 env.py
 .DS_Store
 __pycache__
 .vscode/
-solutions.py
-solutions.ipynb
+package.json
+*.csv
+*.xlsx
+*.tgz
+
+
