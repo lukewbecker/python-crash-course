@@ -18,5 +18,7 @@ class Dog:
 
 
 
+my_dog = Dog('Willie', 6)
+
 
 
