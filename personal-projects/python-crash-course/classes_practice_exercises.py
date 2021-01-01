@@ -37,3 +37,8 @@ print(f"\nYour dog's name is {your_dog.name}.")
 print(f"Your dog is {your_dog.age} years old.")
 your_dog.sit()
 
+# Resteruant class practice:
+
+class Restaurant:
+
+    
