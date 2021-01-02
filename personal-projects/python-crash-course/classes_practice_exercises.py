@@ -41,4 +41,3 @@ your_dog.sit()
 
 class Restaurant:
 
-    
