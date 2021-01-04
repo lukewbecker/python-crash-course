@@ -56,4 +56,6 @@ class Restaurant:
 
 sunrise_cafe = Restaurant("Dawn's Sunrise Cafe", "Southern")
 
-luke_food = Restaurant("Luke")
+luke_food = Restaurant("Luke's Snack Bar", "American")
+
+
