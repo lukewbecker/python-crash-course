@@ -47,7 +47,7 @@ class Restaurant:
         self.restaurant_name = restaurant_name
         self.cuisine_type = cuisine_type
 
-    def describe_reseuarant(self):
+    def describe_restuarant(self):
         print(self.restaurant_name)
         print(self.cuisine_type)
 
