@@ -1,10 +1,6 @@
-# These are the default files that I don't want added to the remote repo.
-
-*.csv
-*.xlsx
-.env
 .ipynb_checkpoints/
 env.py
+tarkov_env.py
 .DS_Store
 __pycache__
 .vscode/
@@ -12,5 +8,6 @@ package.json
 *.csv
 *.xlsx
 *.tgz
-
-
+my_dictionary_simple.txt
+rapid_env.py
+anonymized-curriculum-access.txt
