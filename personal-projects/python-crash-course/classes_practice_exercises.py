@@ -1,4 +1,4 @@
-# Writing my first Class!
+# Writing my first Python Class!
 
 class Dog:
     '''A simple attempt to model a dog.'''
